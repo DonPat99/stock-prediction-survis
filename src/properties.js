@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Stock Market Prediction Literature Collection';
 
 /**
  * Relative path to the data directory
@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Sample literature collection for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>',
+    html: 'Machine Learning and Deep Learning Methods for Stock Market Movement Prediction',
     id: 'Beck2016Visual'
 };
 
